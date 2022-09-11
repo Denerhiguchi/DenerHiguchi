@@ -21,7 +21,7 @@ sou estudante de Análise e desenvolvimento de sistemas 💻
   ##
   
   <div> 
-    <a href="https://www.youtube.com/c/DekaPlayer" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/channel/UC4MaWMP9T2H60SKcYjwQ3zA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://www.instagram.com/denerhiguchi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/denerhiguchi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b4f11090d7c233ba61c1d3e49a2e6e7b.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"</a>
