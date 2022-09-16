@@ -30,8 +30,5 @@
     
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b4f11090d7c233ba61c1d3e49a2e6e7b.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br/>
  
-    
-    
  
 </div>
-  ![Snake animation](https://github.com/DenerHiguchi/DenerHiguchi/blob/output/github-contribution-grid-snake.svg)
