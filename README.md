@@ -34,4 +34,4 @@
     
  
 </div>
-  ![Snake animation](https://github.com/DenerHiguchi2/DenerHiguchi2/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DenerHiguchi/DenerHiguchi2/blob/output/github-contribution-grid-snake.svg)
