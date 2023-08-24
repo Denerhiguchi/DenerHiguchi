@@ -1,7 +1,8 @@
 **Olá Mundo !!**:globe_with_meridians:
 ##
   eu sou **Dener Higuchi alves**!🤓
- estou aaprendendo a Desenvolver JS e Python💻
+ estou aprendendo a Desenvolver JS e Python
+ sou estudante de  análise e desenvolvimento de sistemas
 
 ##
 
