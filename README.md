@@ -32,8 +32,5 @@
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b4f11090d7c233ba61c1d3e49a2e6e7b.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br/>
   
 <a href="C:\Users\higuc\OneDrive\Imagens\gamer.jpg">
-    <img src="C:\Users\higuc\OneDrive\Imagens\gamer.jpg" width="180" height="180" border="0" alt="Imagem do Gamer" />
-</a>
-
- 
-</div>
+    <img src="C:\Users\higuc\OneDrive\Imagens\gamer.jpg" width="180" height="180" border="0" alt="Imagem do Gamer"/>
+</a> </div>
