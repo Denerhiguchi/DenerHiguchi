@@ -33,7 +33,7 @@
  
   <figure style="display: flex; align-items: center;">
     <img src="https://github.com/user-attachments/assets/f5b6b7a4-471b-43d6-bae4-cfd037482df7" width="180" height="180" alt="gamer" />
-   <figcaption style="margin-left: 30 px;">no mundo dos jogos sou um cara que não interage com ninguem apenas jogando por Hobby.</figcaption>
+   <figcaption style="margin-left: 10px; display: flex; align-items: center;">no mundo dos jogos sou um cara que não interage com ninguem apenas jogando por Hobby.</figcaption>
 </figure>
 
    </div>
