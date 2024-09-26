@@ -31,7 +31,7 @@
     
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b4f11090d7c233ba61c1d3e49a2e6e7b.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br/>
 
-##sobre o jogos, sou a pessoas que não conversa e não obedece as ordens de quem eu não conheço rs##
+**__sobre o jogos, sou a pessoas que não conversa e não obedece as ordens de quem eu não conheço rs_**
  
 <figure style="display: flex; align-items: center;">
     <img src="https://github.com/user-attachments/assets/f5b6b7a4-471b-43d6-bae4-cfd037482df7" width="180" height="180" alt="gamer" />
