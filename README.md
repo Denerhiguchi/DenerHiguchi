@@ -1,5 +1,5 @@
 **Olá Mundo !! Hello World 
-こんにちは世界 **:globe_with_meridians:
+こんにちは世界**:globe_with_meridians:
 ##
   eu sou **Dener Higuchi alves**!🤓
  estou na faculdade me formando em análise e desenvolvimento de sistemas
