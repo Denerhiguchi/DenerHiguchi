@@ -1,4 +1,4 @@
-**Olá Mundo !! Hello World 
+:globe_with_meridians:**Olá Mundo !! Hello World 
 こんにちは世界**:globe_with_meridians:
 ##
   eu sou **Dener Higuchi alves**!🤓
