@@ -30,7 +30,10 @@
 
     
   <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/b4f11090d7c233ba61c1d3e49a2e6e7b.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br/>
-  
-<a href="C:\Users\higuc\OneDrive\Imagens\gamer.jpg">
-    <img src="C:\Users\higuc\OneDrive\Imagens\gamer.jpg" width="180" height="180" border="0" alt="Imagem do Gamer"/>
-</a> </div>
+
+  <a href="https://static.vecteezy.com/ti/vetor-gratis/p1/5076592-hacker-mascot-for-sports-and-esports-logo-gratis-vetor.jpg">
+    <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/5076592-hacker-mascot-for-sports-and-esports-logo-gratis-vetor.jpg" width="180" height="180" border="0" alt="Mascote Hacker" />
+</a>
+
+   
+   </div>
