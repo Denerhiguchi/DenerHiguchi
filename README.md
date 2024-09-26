@@ -1,9 +1,9 @@
 :globe_with_meridians:**Olá Mundo !! Hello World 
 こんにちは世界**:globe_with_meridians:
 ##
-  eu sou **Dener Higuchi alves**!🤓
- estou na faculdade me formando em análise e desenvolvimento de sistemas
-sou um cara muito fã dos quadrinhos e jogos e animes, coisas de Nerds mesmo ! 🎮😎
+  I'm **Dener Higuchi alves**!🤓
+ I am in college, graduating in Analysis and Development of Systems. 
+ I am a big fan of comics, games, and anime—truly embracing nerd culture! 🎮😎
 ##
 
 <div align="center">
