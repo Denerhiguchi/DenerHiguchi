@@ -33,9 +33,9 @@
 
 **_sobre o jogos, sou a pessoas que não conversa e não obedece as ordens de quem eu não conheço rs_**
  
-<figure style="display: flex; align-items: center;">
-   <center> <img src="https://github.com/user-attachments/assets/f5b6b7a4-471b-43d6-bae4-cfd037482df7" width="180" height="180" alt="gamer" /></center>
+<center><figure style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/f5b6b7a4-471b-43d6-bae4-cfd037482df7" width="180" height="180" alt="gamer" />
    <figcaption style="margin-left: 10 px; display: flex; align-items: center;"> </figcaption>
-</figure>
+<center> </figure>
 
    </div>
