@@ -1,9 +1,8 @@
 **Olá Mundo !!**:globe_with_meridians:
 ##
   eu sou **Dener Higuchi alves**!🤓
- estou aprendendo a Desenvolver JS e Python
- sou estudante de  análise e desenvolvimento de sistemas
-
+ estou na faculdade me formando em análise e desenvolvimento de sistemas
+sou um cara muito fã dos quadrinhos e jogos e animes, coisas de Nerds mesmo ! 🎮😎
 ##
 
 <div align="center">
