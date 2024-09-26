@@ -23,9 +23,8 @@
   ##
   
   <div> 
-   <center> <a href="https://www.youtube.com/channel/UC5xxSt0c5JKvn0QEN75qEdw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</center>
-<center><a href="https://www.linkedin.com/in/dener-higuchi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </center>
+   <a href="https://www.youtube.com/channel/UC5xxSt0c5JKvn0QEN75qEdw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dener-higuchi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
 
     
@@ -33,9 +32,9 @@
 
 **_sobre o jogos, sou a pessoas que não conversa e não obedece as ordens de quem eu não conheço rs_**
  
-<center><figure style="display: flex; align-items: center;">
+<figure style="display: flex; align-items: center;">
   <img src="https://github.com/user-attachments/assets/f5b6b7a4-471b-43d6-bae4-cfd037482df7" width="180" height="180" alt="gamer" />
    <figcaption style="margin-left: 10 px; display: flex; align-items: center;"> </figcaption>
-</figure></center>
+</figure>
 
    </div>
